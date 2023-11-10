@@ -1,0 +1,9 @@
+.tamaño-imagen {
+  margin: 0;
+  height: 900px;
+  width: 100%;
+  max-width: 100%;
+  padding: 0; /* Elimina el relleno del carrusel */
+}
+
+
